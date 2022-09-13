@@ -1,8 +1,6 @@
 #!/bin/sh
 
-#### 	Description :- 	DISCLAIMER: The following information has been provided by Red Hat, 
-####    but is outside the scope of the posted Service Level Agreements and support procedures, 
-####	https://access.redhat.com/support/offerings/production/soc.html. 
+#### 	Service Script to stop/start JBoss in standalone mode 
 
 #### Set environment variables ####
 
